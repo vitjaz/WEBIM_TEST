@@ -1,0 +1,17 @@
+com/example/webim_test/Note.java
+ com.example.webim_test.Note
+com/example/webim_test/BuildConfig.java
+ com.example.webim_test.BuildConfig
+com/example/webim_test/NoteAdapter.java
+ com.example.webim_test.NoteAdapter
+ com.example.webim_test.NoteAdapter$1
+ com.example.webim_test.NoteAdapter$Listener
+ com.example.webim_test.NoteAdapter$ViewHolder
+com/example/webim_test/MainActivity.java
+ com.example.webim_test.MainActivity
+ com.example.webim_test.MainActivity$1
+ com.example.webim_test.MainActivity$2
+com/example/webim_test/NoteDetailActivity.java
+ com.example.webim_test.NoteDetailActivity
+com/example/webim_test/AddNoteActivity.java
+ com.example.webim_test.AddNoteActivity
